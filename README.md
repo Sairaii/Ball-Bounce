@@ -5,11 +5,6 @@ A brick breaker game but using UE version 4.27 and only using BluePrint.
 # Gameplay
 https://github.com/Sairaii/Ball-Bounce/assets/74638474/f5d48490-ea98-4963-b190-aab0886d549e
 
-This Course refers to:
-
-https://www.udemy.com/course/unreal-engine-blueprints-the-ultimate-developer-course/
-
-
 # Basic Controls
 * Left Click to ready
 * Q for pause
